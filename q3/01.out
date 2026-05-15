@@ -1,3 +1,2 @@
-int_div = 0
-double_div = 0.500
-cast_div = 0.500
+wrong_div = 0.000
+correct_div = 0.500

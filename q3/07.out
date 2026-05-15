@@ -1,3 +1,2 @@
-int_div = 15
-double_div = 15.375
-cast_div = 15.375
+wrong_div = 15.000
+correct_div = 15.375
